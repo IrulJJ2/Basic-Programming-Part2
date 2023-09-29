@@ -1,6 +1,6 @@
 # Tatacara Melakukan Setup Tugas
 
-Langkah-langkah dengan ilustrasi gambar bisa dilihat di link berikut [Submission Task](https://docs.google.com/presentation/d/1n_bXaAbSSoxznhN7m-w2ZnU_N07p_N4MpMI3dCxH2QI/edit#slide=id.g248d6597362_0_573)
+Langkah-langkah dengan ilustrasi gambar bisa dilihat di link berikut [SUBMISSION TASK](https://docs.google.com/presentation/d/1n_bXaAbSSoxznhN7m-w2ZnU_N07p_N4MpMI3dCxH2QI/edit#slide=id.g248d6597362_0_573)
 
 ## Use Template Github
 
